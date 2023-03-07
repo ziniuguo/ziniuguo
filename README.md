@@ -34,7 +34,7 @@ Can do some frontend stuff as well. Can write HTML/CSS/JavaScript. Familiar with
 猫咪卷很喜欢猫。为猫付出了太多，但还是喜欢猫。
 </p>
 <p align="center">
-是SM2出身🇸🇬，但是，猫咪卷在TA的专业SWE上似乎并没有什么特别突出的能力喵。
+是SM2🇸🇬出身，但是，猫咪卷在TA的专业SWE上似乎并没有什么特别突出的能力喵。
 </p>
 <p align="center">
 在有的中学生都开始给开源项目写PR时，猫咪卷还在苦恼于TA的academic projects喵。
