@@ -33,6 +33,15 @@ Can do frontend stuff as well. Can write HTML/CSS/JavaScript. Can use React.
 虽然猫咪卷是流利的华语使用者，但从TA的彩虹六号队友口中得知，猫咪卷其实来自日本。Nya！
 </p>
 
-[![ziniuguo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziniuguo)](https://github.com/ziniuguo/github-readme-stats)
+<br/>
+
+<p align="center">
+<a href="https://github.com/ziniuguo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziniuguo&theme=dracula" />
+</a>
+<a href="https://github.com/ziniuguo/github-readme-stats">
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=ziniuguo&theme=dracula" />
+</a>
+</p>
 
 [Personal Portfolio on GitHub Pages](https://ziniuguo.github.io)
