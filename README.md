@@ -37,11 +37,15 @@ Can do frontend stuff as well. Can write HTML/CSS/JavaScript. Can use React.
 
 <p align="center">
 <a href="https://github.com/ziniuguo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziniuguo&theme=dracula" />
-</a>
-<a href="https://github.com/ziniuguo/github-readme-stats">
-  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=ziniuguo&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziniuguo&hide=html,Jupyter%20Notebook&bg_color=60,5BCEFA,FFFFFF,F5A9B8&langs_count=5" />
 </a>
 </p>
+<br/>
+<p align="center">
+<a href="https://github.com/ziniuguo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ziniuguo&count_private=true&include_all_commits=true&hide=contribs&bg_color=60,5BCEFA,FFFFFF,F5A9B8" />
+</a>
+</p>
+
 
 [Personal Portfolio on GitHub Pages](https://ziniuguo.github.io)
