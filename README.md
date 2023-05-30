@@ -5,9 +5,6 @@ From SUTD Computer Science, graduating in May 2024.
 <p align="center">
 Doing backend SWE stuff, pretty much in Java and Spring.
 </p>
-<p align="center">
-Can do some frontend stuff as well. Can write HTML/CSS/JavaScript. Familiar with some frontend JS libs, such as React/Vue.
-</p>
 <br/>
 
 <p align="center">
