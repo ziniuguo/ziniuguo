@@ -9,7 +9,7 @@ Doing backend SWE stuff, pretty much in Java and Spring.
 
 <p align="center">
 <a href="https://github.com/ziniuguo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziniuguo&hide=html,Jupyter%20Notebook&bg_color=60,5BCEFA,FFFFFF,F5A9B8&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziniuguo&hide=html,C,CMake,Jupyter%20Notebook&bg_color=60,5BCEFA,FFFFFF,F5A9B8&langs_count=5" />
 </a>
 </p>
 <br/>
