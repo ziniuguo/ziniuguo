@@ -1,6 +1,6 @@
 <h3 align="center">Hi, Ziniu Here 👋</h3>
 <p align="center">
-From SUTD Computer Science, graduating in May 2024. 
+From Singapore University of Technology and Design, Computer Science, graduating in May 2024. 
 </p>
 <p align="center">
 Doing backend SWE stuff, pretty much in Java and Spring.
@@ -12,9 +12,9 @@ Doing backend SWE stuff, pretty much in Java and Spring.
 </p>
 <br/>
 
-<h3 align="center">Hi, 我是子牛 👋</h3>
+<h3 align="center">你好, 我是子牛 👋</h3>
 <p align="center">
-来自SUTD，计算机科学。
+来自新加坡科技设计大学，计算机科学，毕业于2024年5月。
 </p>
 <p align="center">
 进行后端开发，熟练于Java/Spring。
