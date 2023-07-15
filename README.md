@@ -8,7 +8,7 @@ Doing backend SWE stuff, pretty much in Java and Spring.
 
 
 <p align="center">
-<a href="https://catroll.io">CatRoll's Cattery 猫卷的猫舍</a>
+Learn more: <a href="https://catroll.io">CatRoll's Cattery 猫卷的猫舍</a>
 </p>
 <br/>
 
