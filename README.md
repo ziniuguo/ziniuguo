@@ -8,21 +8,9 @@ Doing backend SWE stuff, pretty much in Java and Spring.
 
 
 <p align="center">
-<a href="https://catroll.io">CatRoll's Cattery</a>
+<a href="https://catroll.io">CatRoll's Cattery 猫卷的猫舍</a>
 </p>
 <br/>
-
-<h3 align="center">你好, 我是子牛 👋</h3>
-<p align="center">
-来自新加坡科技设计大学，计算机科学，毕业于2024年5月。
-</p>
-<p align="center">
-进行后端开发，熟练于Java/Spring。
-</p>
-
-<p align="center">
-<a href="https://catroll.io">猫卷的猫舍</a>
-</p>
 
 <p align="center">
 <a href="https://github.com/ziniuguo/github-readme-stats">
