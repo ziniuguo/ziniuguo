@@ -1,4 +1,4 @@
-<h3 align="center">Hi, Ziniu Here 👋</h3>
+<h3 align="center">Hi there 👋</h3>
 <p align="center">
 From Singapore University of Technology and Design, Computer Science, graduating in May 2024. 
 </p>
@@ -8,7 +8,7 @@ Doing backend SWE stuff, pretty much in Java and Spring.
 
 
 <p align="center">
-Learn more: <a href="https://catroll.io">CatRoll's Cattery 猫卷的猫舍</a>
+Learn more <a href="https://catroll.io">CatRoll's Cattery 猫卷的猫舍</a>
 </p>
 <br/>
 
