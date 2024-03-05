@@ -1,8 +1,5 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
-From Singapore University of Technology and Design, Computer Science, graduating in May 2024. 
-</p>
-<p align="center">
 Doing backend SWE stuff, pretty much in Java and Spring.
 </p>
 
