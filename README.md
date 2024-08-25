@@ -1,13 +1,7 @@
-<h3 align="center">Hi there 👋</h3>
+<h3 align="center">我是一只猫卷</h3>
 <p align="center">
-Doing backend SWE stuff, pretty much in Java and Spring.
+笨蛋猫卷是幼稚小孩什么都不会只会吃吃睡睡亲亲抱抱贴贴舔舔叫主人呜呜呜呜
 </p>
-
-
-<p align="center">
-Learn more <a href="https://catroll.io">CatRoll's Cattery 猫卷的猫舍</a>
-</p>
-<br/>
 
 <p align="center">
 <a href="https://github.com/ziniuguo/github-readme-stats">
